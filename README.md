@@ -1,5 +1,5 @@
 # dwhiteh2.github.io
-| Left-aligned | Center-aligned | Right-aligned |
+| Name | David Whitehead | Right-aligned |
 | :---         | :---           | :---          |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Introduction   | I am a senior at George Mason University. I am majoring in cybersecurity. |
+| Hobbies    | I enjoy sketching, paleontology, zoology, history, and video games. One of my favorite foods is choclate chip ice cream.| 
